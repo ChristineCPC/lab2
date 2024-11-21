@@ -7,8 +7,6 @@
 #include <unistd.h>
 #include <sys/wait.h>
 #include "lab2.h"
-#include "ipc.c"
-#include "time.c"
 
 /************************************************************\
  * get_arguments - returns the command line arguments not
